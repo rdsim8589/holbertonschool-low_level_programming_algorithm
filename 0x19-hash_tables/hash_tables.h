@@ -2,6 +2,7 @@
 #define HASH
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 /*
  * @key : The key, string
  * The key is unique in the HashTable
